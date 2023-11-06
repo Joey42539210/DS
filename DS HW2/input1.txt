@@ -1,0 +1,7 @@
+6
+delete 10
+add 1
+add 8
+add 9
+delete 9
+add Q

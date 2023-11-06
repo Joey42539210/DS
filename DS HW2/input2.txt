@@ -1,0 +1,10 @@
+9
+add 6
+add 10
+add 2
+truncateFirst
+truncateFirst
+add 8
+truncateLast
+add 6
+add 9
